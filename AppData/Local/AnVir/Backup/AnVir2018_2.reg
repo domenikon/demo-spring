@@ -1,0 +1,15 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Run]
+"SunJavaUpdateSched"="\"C:\\Program Files (x86)\\Common Files\\Java\\Java Update\\jusched.exe\""
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run]
+"RTHDVCPL"="\"C:\\Program Files\\Realtek\\Audio\\HDA\\RtkNGUI64.exe\" -s"
+"SecurityHealth"="%ProgramFiles%\\Windows Defender\\MSASCuiL.exe"
+"egui"="\"C:\\Program Files\\ESET\\ESET Security\\ecmds.exe\" /launch /hide"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run]
+"BitTorrent"="\"C:\\Users\\PC\\AppData\\Roaming\\BitTorrent\\BitTorrent.exe\"  /MINIMIZED"
+"Jing"="C:\\Program Files (x86)\\TechSmith\\Jing\\Jing.exe"
+"OneDrive"="\"C:\\Users\\PC\\AppData\\Local\\Microsoft\\OneDrive\\OneDrive.exe\" /background"
+"Viber"="\"C:\\Users\\PC\\AppData\\Local\\Viber\\Viber.exe\" StartMinimized"

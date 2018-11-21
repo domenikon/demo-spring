@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Nov 06 23:49:37 EET 2018
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1541540977785
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact javax.servlet.jsp\:javax.servlet.jsp-api\:pom\:2.3.0 from/to central (https\://repo.maven.apache.org/maven2)\: Connection reset

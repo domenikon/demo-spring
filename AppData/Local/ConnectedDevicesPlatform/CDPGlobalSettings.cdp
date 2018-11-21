@@ -1,0 +1,68 @@
+﻿{
+   "AFSEnvironment" : 0,
+   "AFSUrl" : "https://activity.windows.com",
+   "ActivityStoreInfo" : [
+      {
+         "active" : true,
+         "activityStoreId" : "53B55733-B726-925A-C62B-658C5FF6AEE4",
+         "stableUserId" : "L.PC"
+      }
+   ],
+   "AfcDefaultUser" : "undefined",
+   "AfcPrivacySettings" : {
+      "ActivityFeed" : 0,
+      "CloudSync" : 0,
+      "PublishUserActivity" : 0,
+      "UploadUserActivity" : 1
+   },
+   "AfsPostInitializeSyncWaitMs" : 10000,
+   "AfsSyncFrequencyMs" : 3600000,
+   "Authentication.Environment" : 0,
+   "BluetoothTransportEnabled" : true,
+   "CcsApiVersion" : "/api/v1",
+   "CcsDefaultServerName" : "romeccs.microsoft.com",
+   "CcsPollingEnabled" : false,
+   "CcsPollingInterval" : 0,
+   "CcsSeenRequestIds" : [],
+   "CcsSeenRequestIdsLastUpdatedTime" : "0000-00-00T00:00:00.000",
+   "Cloud.SessionIdleTimeoutIntervalSecs" : 3600,
+   "CloudTransportEnabled" : true,
+   "CustomAuthClsid" : "",
+   "DdsAadRegisterUrl" : "",
+   "DdsAadSyncUrl" : "",
+   "DdsMsaRegisterUrl" : "",
+   "DdsMsaSyncUrl" : "",
+   "FastPathEnabled" : true,
+   "FlowControl.AckSendInterval" : 100,
+   "FormatVersion" : 20,
+   "InboundMessageThreadPoolCount" : 2,
+   "LatestCdpUsedTime" : "0000-00-00T00:00:00.000",
+   "LatestFixAccountToastTime" : {},
+   "MaximumConcurrentBluetoothSends" : 5,
+   "MaximumSocketBuffers" : 32,
+   "MaximumUnreliableMessageQueueSize" : 100,
+   "OutboundMessageThreadPoolCount" : 1,
+   "POBoxes" : [
+      {
+         "alternateId" : "cortana.xdevice",
+         "name" : "ShareFileBinaryHost",
+         "packageId" : "cortana.xdevice",
+         "type" : "binary"
+      },
+      {
+         "alternateId" : "cortana.xdevice",
+         "name" : "NotificationActionBinaryHost",
+         "packageId" : "cortana.xdevice",
+         "type" : "binary"
+      }
+   ],
+   "ProtocolLiveTraceEnabled" : false,
+   "ProtocolVersionBrokerEnabled" : false,
+   "TcpTransportEnabled" : true,
+   "TcpTransportUpgradeRequired" : false,
+   "TraceLog.EnabledHandlerTypes" : 66,
+   "TraceLog.Level" : 3,
+   "UdpTransportEnabled" : true,
+   "VirtualDeviceId" : "1D0D2A9E-809B-34D7-F6E6-BF9834E2C0B6",
+   "WifiDirectTransportEnabled" : true
+}

@@ -1,0 +1,23 @@
+﻿{
+   "AfcDatabaseSettings" : {
+      "DatabaseInstanceId" : 0,
+      "LastUpdated" : "2018-07-22T16:33:09.354"
+   },
+   "AfsActivityTypes" : [],
+   "AfsChannelUri" : "",
+   "AfsEnvironment" : "",
+   "AfsSubscriptionId" : "",
+   "AfsSubscriptionUpdateTime" : "0000-00-00T00:00:00.000",
+   "CNCNotificationChannelId" : "1;14935526971263478726",
+   "CNCNotificationUri" : "https://db5p.notify.windows.com/?token=AwYAAABr8iruPNF8Hufgh20EWQ057kfkGrtMf%2brcfAKnWvhxyuI7muLZz3%2bEfQ03QqM4idefFJ9eaO6OBzrphUrM%2fgwGwix2ISWGHL4U3KHZkWxOmwZd2OjG1FV9VLPbcEmjyBNvgYlDumbLaJyc6u895isP",
+   "CNCNotificationUriExpirationTime" : "2018-11-25T03:45:24.000Z",
+   "CNCNotificationUriLastSynced" : "2018-10-26T15:45:25.785Z",
+   "Devices" : [],
+   "FormatVersion" : 11,
+   "LastRegisteredNotificationUri" : "",
+   "LastRegisteredNotificationUriExpirationTime" : "0000-00-00T00:00:00.000",
+   "LastSyncedTime" : "0000-00-00T00:00:00.000",
+   "RegisteredInfoHash" : "",
+   "RegisteredWithStrongAuth" : false,
+   "StableUserId" : "L.PC"
+}
